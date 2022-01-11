@@ -1,6 +1,8 @@
 # otel-go-sdk-config-demo
 A demo for the opentelemetry Go SDK configuration 
+
 ![https://github.com/MadVikingGod/otel-go-sdk-config-demo](img/repo-link.png)
+
 # Setup
 Because this code is written against un released sdk version (1.4) it has to be linked against the current code base.
 
